@@ -59,6 +59,6 @@ This project explores the use of genetic algorithms to train neural networks by 
 
 This project focuses on denoising medical images using deep reinforcement learning. A reinforcement learning agent is trained to iteratively reduce noise while preserving critical structures and details, improving the overall quality and diagnostic value of the images.
 
-![Image denoising using Deep Reinforcement Learning](/assets/rl.png)
+![Image denoising using Deep Reinforcement Learning](/assets/DeepRL.png)
 
 ### More...
