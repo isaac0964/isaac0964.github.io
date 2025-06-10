@@ -53,6 +53,12 @@ This project explores the integration of a neural network trained to assist trad
 
 This project explores the use of genetic algorithms to train neural networks by evolving their weights over generations. Instead of traditional gradient-based optimization, a population of candidate solutions is evaluated and evolved using selection, crossover, and mutation, aiming to find optimal or near-optimal network parameters.
 
-![Training Neural Network with Genetic Algorithms ](/assets/genetic.gif)
+![Training Neural Network with Genetic Algorithms](/assets/genetic.gif)
+
+### Medical Image Restoration using Deep Reinforcement Learning
+
+This project focuses on denoising medical images using deep reinforcement learning. A reinforcement learning agent is trained to iteratively reduce noise while preserving critical structures and details, improving the overall quality and diagnostic value of the images.
+
+![Image denoising using Deep Reinforcement Learning](/assets/rl.png)
 
 ### More...
