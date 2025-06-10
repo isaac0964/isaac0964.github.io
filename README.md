@@ -29,6 +29,12 @@ support automated profiling and decision-making.
 
 ## Projects
 
+### Improving moving insect detection with difference of features maps in YOLO architecure
+
+Introduced the motion module, a lightweight component designed to enhance object detection by integrating motion information directly at the feature map level within the YOLOv8 backbone. Unlike methods that rely on frame differencing and require additional preprocessing steps, our approach operates on raw input and uses only two consecutive frames. Experimental evaluations demonstrate that incorporating the motion module leads to consistent performance improvements across key object detection metrics.
+
+![Improving moving insect detection ](/assets/preds_abejas_s.jpg)
+
 ### MobileNetv2 for Crop Pest Classification 
 This project leverages MobileNetv2, a lightweight convolutional neural network, to classify images of crop pests efficiently. Designed for deployment in resource-constrained environments, the model enables accurate pest identification directly from field images, aiding early pest detection and supporting sustainable agricultural practices.
 
