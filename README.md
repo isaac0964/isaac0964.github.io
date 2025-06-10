@@ -55,3 +55,5 @@ This project explores the integration of a neural network trained to assist trad
 This project explores the use of genetic algorithms to train neural networks by evolving their weights over generations. Instead of traditional gradient-based optimization, a population of candidate solutions is evaluated and evolved using selection, crossover, and mutation, aiming to find optimal or near-optimal network parameters.
 
 ![Training Neural Network with Genetic Algorithms ](/assets/genetic.gif)
+
+### More...
