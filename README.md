@@ -1,8 +1,7 @@
 # M.S. in Robotics and Artificial Intelligence 
 
 #### Programming Languages: Python, Matlab, C/C++
-#### Tools and Frameworks: Pytorch, Tensorflow, Pandas, Opencv, Matplotlib, Scikit-learn, Seaborn, Numpy,
-SQL, Git/Github, OpenMP, MPI, CUDA
+#### Tools and Frameworks: Pytorch, Tensorflow, Pandas, Opencv, Matplotlib, Scikit-learn, Seaborn, Numpy, SQL, Git/Github, OpenMP, MPI, CUDA
 
 ## Education
 
