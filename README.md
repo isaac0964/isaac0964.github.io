@@ -1,5 +1,9 @@
 # M.S. in Robotics and Artificial Intelligence 
 
+#### Programming Languages: Python, Matlab, C/C++
+#### Tools and Frameworks: Pytorch, Tensorflow, Pandas, Opencv, Matplotlib, Scikit-learn, Seaborn, Numpy,
+SQL, Git/Github, OpenMP, MPI, CUDA
+
 ## Education
 
 - M.S., Robotics and Artificial Intelligence | University of Guadalajara (_July 2025_)
