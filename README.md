@@ -26,3 +26,8 @@ cesing and regular expressions, improving recruitment efficiency through automat
 
 - Applied statistical models (e.g., clustering, classification) on extracted CV data to group candidates and
 support automated profiling and decision-making.
+
+## Projects
+
+### Using MobileNetv2 for Crop Pest Classification 
+This project leverages MobileNetv2, a lightweight convolutional neural network, to classify images of crop pests efficiently. Designed for deployment in resource-constrained environments, the model enables accurate pest identification directly from field images, aiding early pest detection and supporting sustainable agricultural practices.
