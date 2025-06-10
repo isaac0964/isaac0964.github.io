@@ -29,8 +29,13 @@ support automated profiling and decision-making.
 
 ## Projects
 
-### Using MobileNetv2 for Crop Pest Classification 
+### MobileNetv2 for Crop Pest Classification 
 This project leverages MobileNetv2, a lightweight convolutional neural network, to classify images of crop pests efficiently. Designed for deployment in resource-constrained environments, the model enables accurate pest identification directly from field images, aiding early pest detection and supporting sustainable agricultural practices.
 
 ![Pest Classification](/assets/gradcam.png)
 
+### Training Neural Network with Kalman for PID Controller
+
+This project explores the integration of a neural network trained to assist traditional PID control, enhanced with a Kalman filter for state estimation. The controller is applied to a TurtleBot, aiming for smooth and accurate navigation by learning dynamic responses and reducing sensor noise through Kalman filtering. This hybrid approach improves control precision in real-time robotic tasks.
+
+![Neural Network and Kalman Filter Control](/assets/IMG_0807.gif)
