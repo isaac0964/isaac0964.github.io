@@ -33,6 +33,7 @@ support automated profiling and decision-making.
 ## Projects
 
 ### Improving moving insect detection with difference of features maps in YOLO architecure
+[Publication](https://www.mdpi.com/2076-3417/15/14/7697)
 
 Introduced the motion module, a lightweight component designed to enhance object detection by integrating motion information directly at the feature map level within the YOLOv8 backbone. Unlike methods that rely on frame differencing and require additional preprocessing steps, our approach operates on raw input and uses only two consecutive frames. Experimental evaluations demonstrate that incorporating the motion module leads to consistent performance improvements across key object detection metrics.
 
